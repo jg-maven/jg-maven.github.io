@@ -1,0 +1,48 @@
+.profile-pic{
+	max-width: 100%
+}
+.underline-text{text-decoration: underline;}
+.fa{color: lightpink}
+.fa:hover{color: hotpink;} 
+body{
+	background-image: url(../img/jungle.jpg);
+}
+a:hover{text-decoration: none;}
+.h1 {font-family: The Woodlands, sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 100px;
+	text-decoration-color: darkgreen;
+	background-color: DBF5D3;
+	text-align: center;
+	position: relative;
+bottom: 20px;
+	border-bottom-style: groove;
+	border-top-style: groove;
+	padding-bottom: 50px;
+	line-height:1;}
+.progress-bar
+{color: hotpink;}
+/*This is where my profile picture is*/
+.title2{font-family: Variane Script;
+margin-top: 40;
+margin-bottom: 40;
+font-size: 50px;}
+.navbar{background-color: 
+	 #D9EDD5;
+}
+
+.nav-item {
+    color: #22301F;
+padding-bottom: 30px;
+text-align: center;}
+.mynav {width: 100%;
+justify-content: center;}
+.card{margin-top: 10px;
+margin-bottom: 10px;}
+.list-group {font-family: Open sans, sans-serif;}
+.crossl {font-family: Open sans, sans-serif;}
+.nav
+.hintergrund {background-color: antiquewhite;}
+.dirk {background: url('../img/dirk.gif');
+background-size: cover;}
